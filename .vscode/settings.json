@@ -1,0 +1,50 @@
+{
+  "dart.allowAnalytics": false,
+  "dart.autoImportCompletions": true,
+  "dart.hotReloadProgress": "statusBar",
+  "dart.previewFlutterUiGuides": true,
+  "dart.renameFilesWithClasses": "always",
+  "dart.triggerSignatureHelpAutomatically": true,
+  "dart.updateImportsOnRename": true,
+  "dart.useLsp": true,
+  "debug.showInStatusBar": "always",
+  "devskim.enableBestPracticeRules": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    // "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.cursorSurroundingLines": 1,
+  "editor.detectIndentation": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.stickyTabStops": true,
+  "editor.suggest.localityBonus": true,
+  "editor.suggest.preview": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "explorer.sortOrder": "filesFirst",
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "search.useGlobalIgnoreFiles": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[dart][yaml]": {
+    "editor.insertSpaces": true
+  },
+  "[dart]": {
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace"
+  },
+  "[yaml]": {
+    "editor.autoIndent": "advanced"
+  }
+}
